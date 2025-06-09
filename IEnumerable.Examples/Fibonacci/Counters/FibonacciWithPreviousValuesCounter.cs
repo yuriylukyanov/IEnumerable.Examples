@@ -1,4 +1,4 @@
-namespace IEnumerable.Examples.Fibonacci;
+namespace IEnumerable.Examples.Fibonacci.Counters;
 
 internal static class FibonacciWithPreviousValuesCounter
 {

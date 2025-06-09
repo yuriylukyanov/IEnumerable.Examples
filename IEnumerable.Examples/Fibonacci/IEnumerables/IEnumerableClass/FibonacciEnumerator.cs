@@ -1,6 +1,7 @@
 using System.Collections;
+using IEnumerable.Examples.Fibonacci.Counters;
 
-namespace IEnumerable.Examples.Fibonacci;
+namespace IEnumerable.Examples.Fibonacci.IEnumerables.IEnumerableClass;
 
 public class FibonacciEnumerator(int? max = null, int start = 0): IEnumerator<int>
 {

@@ -1,4 +1,6 @@
-namespace IEnumerable.Examples.Fibonacci;
+using IEnumerable.Examples.Fibonacci.Counters;
+
+namespace IEnumerable.Examples.Fibonacci.IEnumerables;
 
 public static class FibonacciWithPreviousValuesEnumerableYield
 {

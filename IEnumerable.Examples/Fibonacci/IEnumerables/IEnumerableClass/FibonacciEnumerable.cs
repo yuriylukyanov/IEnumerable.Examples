@@ -1,6 +1,6 @@
 using System.Collections;
 
-namespace IEnumerable.Examples.Fibonacci;
+namespace IEnumerable.Examples.Fibonacci.IEnumerables.IEnumerableClass;
 
 public class FibonacciEnumerable(int? max = null, int start = 0): IEnumerable<int>
 {

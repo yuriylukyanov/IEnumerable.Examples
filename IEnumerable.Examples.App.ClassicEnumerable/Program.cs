@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using IEnumerable.Examples.Fibonacci;
+﻿using IEnumerable.Examples.Fibonacci.IEnumerables.IEnumerableClass;
 
 var fibonacciEnumerable = new FibonacciEnumerable(40);
 

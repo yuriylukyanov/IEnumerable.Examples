@@ -2,13 +2,11 @@
 
 using IEnumerable.Examples.Fibonacci;
 
-var fibonacciEnumerable = new FibonacciEnumerable(10);
+var fibonacciEnumerable = new FibonacciEnumerable(40);
 
 foreach (var element in fibonacciEnumerable)
     Console.WriteLine(element);
-Console.Clear();
 
-foreach (var element in FibonacciEnumerableYield.GetFibonacciEnumerable(10))
-    Console.WriteLine(element);
+
     
     
